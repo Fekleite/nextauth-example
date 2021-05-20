@@ -1,4 +1,4 @@
-# Ignite - Trilha ReactJS: Chapter V
+# Ignite - Trilha ReactJS: Chapter IV
 
 ## Autenticação e autorização
 
